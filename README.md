@@ -5,6 +5,7 @@ I created a small API which is a list of employees (CRUD, Error handlig, CORS).
 ## Dependencies
 
 - express.js
+- MongoDB
 - mongoose
 - http-errors
 
@@ -15,6 +16,7 @@ To get the Node server running locally:
 - Clone this repo
 - `npm install` to install all required dependencies
 - `npm start` to start the local server (localhost:3000)
+- Mongo database running locally
 
 ## Testing
 
